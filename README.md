@@ -9,13 +9,14 @@ Lineage os
 1= not even started but code available
 2= wip
 3= booted
+4= done
 ```
 
 # __Suported variant, branch and status__
 
-* [Xperia E3: Flamingo](https://github.com/LOS-yukon/local_manifests/tree/lineage-16.0-flamingo) - status=2
-* [Xperia T2 Ultra: Tianchi]() - status=0
-* [Xperia T3: Seagull]() - status=0
+* [Xperia E3: Flamingo](https://github.com/LOS-yukon/local_manifests/tree/lineage-16.0-flamingo) - status=3
+* [Xperia T2 Ultra: Tianchi]() - status=1
+* [Xperia T3: Seagull]() - status=1
 
 # __credit__
 
