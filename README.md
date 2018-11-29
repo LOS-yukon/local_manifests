@@ -4,7 +4,7 @@
 Lineage os
 
 # __status__
-```sh
+```
 0= nothing 
 1= not even started but code available
 2= wip
