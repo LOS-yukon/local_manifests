@@ -3,7 +3,7 @@
   <!--Xperia E3 device-->
   <project name="LOS-yukon/android_device_sony_flamingo" path="device/sony/flamingo" remote="github" revision="lineage-16.0" />
   <project name="LOS-yukon/android_device_sony_seagull" path="device/sony/seagull" remote="github" revision="lineage-16.0" />
-  <project name="LOS-yukon/android_device_sony_tianchi" path="device/sony/flamingo" remote="github" revision="lineage-16.0" />
+  <project name="LOS-yukon/android_device_sony_tianchi" path="device/sony/tianchi" remote="github" revision="lineage-16.0" />
   <project name="LOS-yukon/android_device_sony_yukon" path="device/sony/yukon" remote="github" revision="lineage-16.0" />
   <project name="SonyAosp/device_sony_sepolicy" path="device/sony/sepolicy" revision="android-9.0" remote="github" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="lineage-16.0" />
