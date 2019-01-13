@@ -68,7 +68,7 @@ Init source from LineageOS branch pie
 ```
 repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
 ```
-get the manifest of Flamingo
+get the manifest of yukon
 ```
 git clone https://github.com/LOS-yukon/local_manifests.git -b lineage-16.0 .repo/local_manifests
 ```
