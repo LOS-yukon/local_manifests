@@ -24,9 +24,9 @@
   <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="master" />
 
   <!--Sony Hardware-->
-  <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="lineage-16.0" />
-  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-16.0" />
-  <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="lineage-16.0" />
+  <project name="sonyxperiadev/thermanager" path="hardware/sony/thermanager" remote="github" revision="master" />
+  <project name="sonyxperiadev/timekeep" path="hardware/sony/timekeep" remote="github" revision="master" />
+  <project name="sonyxperiadev/macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="master" />
   <!--Modded stuff--> 
    <remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
    <remote name="sonyxperiadev/vendor-qcom-opensource-dataservices" fetch="https://github.com/sonyxperiadev/vendor-qcom-opensource-dataservices" />
