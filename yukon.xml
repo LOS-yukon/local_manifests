@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--Xperia E3 device-->
+  <!--Xperia Yukon devices-->
   <project name="LOS-yukon/android_device_sony_flamingo" path="device/sony/flamingo" remote="github" revision="lineage-16.0" />
   <project name="LOS-yukon/android_device_sony_seagull" path="device/sony/seagull" remote="github" revision="lineage-16.0" />
   <project name="LOS-yukon/android_device_sony_tianchi" path="device/sony/tianchi" remote="github" revision="lineage-16.0" />
@@ -9,10 +9,10 @@
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
 
-  <!--Xperia E3 kernel-->
+  <!--Xperia Yukon kernel-->
   <project name="LOS-yukon/android_kernel_sony_msm8226" path="kernel/sony/msm8226" remote="github" revision="lineage-16.0" />
 
-  <!--Xperia E3 vendor-->
+  <!--Xperia Yukon vendor-->
   <project name="LOS-yukon/android_vendor_sony_yukon" path="vendor/sony" remote="github" revision="lineage-16.0" />
 
   <!--Firmware-->
