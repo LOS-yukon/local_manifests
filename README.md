@@ -33,8 +33,6 @@ This guide is for yukon `flamingo, seagull, eagle, tianchi`.
 Read the whole guide one time before start.
 
 ```
-sudo apt-get install openjdk-8-jdk
-sudo apt-get install openjdk-8-jre
 sudo apt-get install repo
 sudo apt-get install git 
 ```
